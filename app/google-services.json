@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168934141603",
+    "project_id": "pontaltech-23539",
+    "storage_bucket": "pontaltech-23539.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168934141603:android:7782d0f2d552b5ca655916",
+        "android_client_info": {
+          "package_name": "com.example.pontaltech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBInsNv2DlRYq6IBAsdMgb2_h4l8EAaMds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
